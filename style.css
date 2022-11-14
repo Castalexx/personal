@@ -1,0 +1,78 @@
+body {
+    background-color: #404B69 ;
+    font-family: sans-serif;
+    color: #DBEDF3;
+    margin: 0;
+}
+
+#cabeza {
+    height:1400px;
+    background-color: rgba(0,0,0, 0.7);
+    
+    
+        
+}
+video {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+/* .gradient {
+    height: 200px;
+    background-image:linear-gradient(black, #404B69) ;
+} */
+
+
+#profile {
+    border-radius: 100%;
+    display:inline;
+}
+.a {
+    display:flex;
+    text-align: left;
+}
+.nc { 
+    text-align: center;
+}
+.ima {
+    display: flex;
+    justify-content: center;
+}
+.cn {
+    margin: 0 20px;
+}
+.hd {
+    text-align: center;
+    width: 300px;
+    
+}
+
+#courses {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #283149;
+    width: 500px;
+    text-align: center;
+    align-items: center;
+    margin: 10px auto;
+    
+}
+/* img {
+    margin: 10px
+} */
+
+a {
+    color: #00818A;
+}
+.cnt {
+    display: flex;
+    justify-content: center;
+    margin: 0 15px;
+}
+.dw {
+    margin: 0 40px;
+}
+
+img {
+    width: 500px;
+}
